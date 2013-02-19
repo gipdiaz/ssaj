@@ -6,7 +6,7 @@
 <head runat="server">
 <link href="bootstrap.css" rel="stylesheet" type="text/css" />
 
-    <title>Página sin título</title>
+    <title>Página sin título modificada</title>
 </head>
 <body>
     <form id="form1" runat="server">
