@@ -6,13 +6,13 @@
 <head runat="server">
 <link href="bootstrap.css" rel="stylesheet" type="text/css" />
 
-    <title>Página sin título modificada de nuevo</title>
+    <title>Página sin título modificada</title>
 </head>
 <body>
     <form id="form1" runat="server">
     <div>
     <p> 
-        <asp:Button ID="Button1" runat="server" CssClass="btn btn-small btn-success" OnClick="Button1_Click" Text="Volver" />&nbsp;</p>
+        <asp:Button ID="Button1" runat="server" CssClass="btn btn-small btn-success" OnClick="Button1_Click" Text="Volver 2" />&nbsp;</p>
         <p>
             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             <asp:Label ID="Label1" runat="server" CssClass="MiLabel" Text="Label"></asp:Label></p>   
