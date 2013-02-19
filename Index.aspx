@@ -12,7 +12,7 @@
     <form id="form1" runat="server">
     <div>
     <p> 
-        <asp:Button ID="Button1" runat="server" CssClass="btn btn-small btn-success" OnClick="Button1_Click" Text="Volver ar" />&nbsp;</p>
+        <asp:Button ID="Button1" runat="server" CssClass="btn btn-small btn-success" OnClick="Button1_Click" Text="Volver" />&nbsp;</p>
         <p>
             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
             <asp:Label ID="Label1" runat="server" CssClass="MiLabel" Text="Label"></asp:Label></p>   
